@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, R & Python
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me francisco.carnabucci@gmail.com
-- 😄 Pronouns: Pancho
+- 😄 Nick: Pancho
 - ⚡ Fun fact: I enjoy using my free time learning boring things
 
 <!---
